@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
-[email to my mail](mailto:archanapanchali64@gmail.com)
+[[![Gmail](https://wikimedia.org)]](mailto:archanapanchali64@gmail.com)
+
