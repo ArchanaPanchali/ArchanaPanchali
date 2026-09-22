@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
-[https://wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)](mailto:archanapanchali64@gmail.com)
+[[https://wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)](mailto:archanapanchali64@gmail.com)
 
