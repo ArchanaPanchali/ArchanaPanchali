@@ -1,18 +1,8 @@
-## Hi there 👋
+### Hi there 👋 I'm Archana Panchali
 
+BSc (Hons) Information Technology & Software Engineering undergraduate with a strong interest in AI/ML, data-driven applications, and collaborative software development.
 
-**ArchanaPanchali/ArchanaPanchali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Innovative collabarative Hub
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
-
-[click here to checkout my mail](mailto:archanapanchali64@gmail.com)
-
+- 🔭 **Currently working on:** *Innovation Collaboration Hub* — building and refining full-stack and backend features.
+- 🌱 **Exploring:** Machine learning model evaluation, data pipelines, and clean API/system design.
+- 🛠️ **Languages & Tools:** Python • TypeScript / JavaScript • Java • C • SQL • Git • IntelliJ IDEA • Jupyter Notebook
+- 📫 **Reach me:** [archanapanchali64@gmail.com](mailto:archanapanchali64@gmail.com) • [LinkedIn](https://www.linkedin.com/in/archana-panchali-59b834367)
